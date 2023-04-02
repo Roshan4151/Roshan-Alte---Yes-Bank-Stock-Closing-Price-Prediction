@@ -1,4 +1,4 @@
-# Roshan-Alte---Yes-Bank-Stock-Closing-Price-Prediction
+# Roshan_Alte_Yes_Bank_Stock_Closing_Price_Prediction
 This is the Capstone project which is a part of my Data Science training at AlmaBetter.
 
 # Introduction -
